@@ -1,3 +1,3 @@
-# COP 6731 - Theory and Implementation of Database Systems 
-Homeworks for COP 6731
+# COP 6731 - Repo 
+Homeworks for COP 6731 - Theory and Implementations of Database System
       
